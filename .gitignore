@@ -114,3 +114,4 @@ virtualenv
 # Pycharm
 .idea/
 ./static
+.env
